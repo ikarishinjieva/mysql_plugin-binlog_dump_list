@@ -22,7 +22,7 @@ Installation
 ----
 Download the .so from deploy folder
 
-    CAUTION: Since the plugin use mysqld internal variables, so it could not be used by mysqld of different version
+**CAUTION: Since the plugin use mysqld internal variables, so it could not be used by mysqld of different version**
     
 Install plugin
     
@@ -32,7 +32,9 @@ Install plugin
 Cannot find plugin for some mysqld version?
 ----
 You can 
+
 1. Open a issue is warmly welcome
+
 2. Compile one
 
 Compile
